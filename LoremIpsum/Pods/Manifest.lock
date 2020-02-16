@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.8.2)
+  - PromiseKit/Alamofire (6.10.0):
+    - Alamofire (~> 4.0)
+    - PromiseKit/CorePromise
+  - PromiseKit/CorePromise (6.10.0)
+  - Realm (3.17.1):
+    - Realm/Headers (= 3.17.1)
+  - Realm/Headers (3.17.1)
+  - RealmSwift (3.17.1):
+    - Realm (= 3.17.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - PromiseKit/Alamofire
+  - RealmSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - PromiseKit
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  PromiseKit: 1fdaeb6c0a94a5114fcb814ff3d772b86886ad4e
+  Realm: c204f1a890f07dea43b14132a6aad118c054b8f2
+  RealmSwift: 4d3c9233544b9cd08a8913e0872b9038eb99b054
+
+PODFILE CHECKSUM: 6b4af9e2373c5b645d368e03051a40549dd634bd
+
+COCOAPODS: 1.7.4

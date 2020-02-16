@@ -1,0 +1,7 @@
+target 'LoremIpsum' do
+  use_frameworks!
+  
+  pod 'Alamofire'
+  pod 'PromiseKit/Alamofire'
+  pod 'RealmSwift'
+end
